@@ -1,0 +1,59 @@
+h1{
+    text-align: center;
+    font-style: oblique;
+    font-size: 40px;
+    padding: 20px;
+    margin: 0;
+    color: gray;
+    
+}
+.about{
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    background-image: url(Pictures/laura-chouette-RMe3FEoNS2s-unsplash.jpg );  
+    padding: 150px ; 
+    color:black;
+    
+}
+html{
+     background: color #f1f1f1;;
+
+}
+nav ul li  {
+    text-decoration: none;
+    float: right;
+     padding: 5px; 
+     display: inline-flex; 
+     list-style: none;
+
+}
+.row:after{
+      content: "";  
+     display: table; 
+     clear: both; 
+    /* padding-left: 35px; */
+}
+ .column {
+ float: left;
+ width: 33.3%;
+ padding: 0px;
+  /* padding-left: 25px;
+ margin-right: 0px;  */
+
+          }
+    h2{
+        color: grey;
+        font-style: oblique;
+    }
+    nav ul li a{
+        text-decoration:none;
+    }
+    nav li a{
+    color: black;
+      font-size: 100%;
+    }
+ a:hover {
+        background-color:orchid;
+      }
+      
